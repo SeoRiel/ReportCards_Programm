@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReportCard_Programm", "ReportCard_Programm\ReportCard_Programm.vcxproj", "{27D4CAEC-6C07-4EC4-8BC6-C975E63F9110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D4CAEC-6C07-4EC4-8BC6-C975E63F9110}.Debug|x64.ActiveCfg = Debug|x64
+		{27D4CAEC-6C07-4EC4-8BC6-C975E63F9110}.Debug|x64.Build.0 = Debug|x64
+		{27D4CAEC-6C07-4EC4-8BC6-C975E63F9110}.Debug|x86.ActiveCfg = Debug|Win32
+		{27D4CAEC-6C07-4EC4-8BC6-C975E63F9110}.Debug|x86.Build.0 = Debug|Win32
+		{27D4CAEC-6C07-4EC4-8BC6-C975E63F9110}.Release|x64.ActiveCfg = Release|x64
+		{27D4CAEC-6C07-4EC4-8BC6-C975E63F9110}.Release|x64.Build.0 = Release|x64
+		{27D4CAEC-6C07-4EC4-8BC6-C975E63F9110}.Release|x86.ActiveCfg = Release|Win32
+		{27D4CAEC-6C07-4EC4-8BC6-C975E63F9110}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E01BF9D-FB5E-4663-9AE2-1F67D5A1E119}
+	EndGlobalSection
+EndGlobal
